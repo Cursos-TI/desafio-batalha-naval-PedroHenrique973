@@ -76,7 +76,7 @@ void habilidadeOctaedro(int linha, int coluna) {
 }
 
 int main() {
-    // Inicializar tabuleiro
+
     for (int i = 0; i <= 9; i++)
         for (int j = 0; j <= 9; j++)
             tabuleiro[i][j] = 0;
